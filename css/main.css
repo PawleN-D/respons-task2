@@ -1,0 +1,11 @@
+nav {
+    float: right;
+    width: 29%;
+    background-image: url(./images/sidebar-img.png) ;
+
+}
+
+section {
+    float: left;
+    width: 62.7%;
+}
